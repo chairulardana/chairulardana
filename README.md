@@ -1,4 +1,4 @@
-## I'm Chairul Ardana 👋
+
 
 ![Chairul Ardana](img/github-header-banner.png)
 
